@@ -2,16 +2,16 @@
 ## Youtube demonstration
 https://youtu.be/S2OQ9ibQJ7g
 
-Tooltip App
+### Tooltip App
 Tooltip App is an Android application that allows you to customize and display tooltips associated with different buttons. Tooltips are informative overlays that appear when users interact with elements in the app, providing additional context or guidance.
 
-Features
+### Features
 Customizable tooltips with various styles, colors, and text content.
 Ability to associate tooltips with specific buttons.
 
 
 
-Getting Started
+### Getting Started
 Follow these steps to get started with the Tooltip App:
 
 Clone the repository:
@@ -23,21 +23,21 @@ Open the project in Android Studio:
 
 Open Android Studio and select "Open an existing Android Studio project." Navigate to the location where you cloned the repository and select the tooltip-app directory.
 
-Run the app:
+### Run the app:
 
 Connect an Android device or start an emulator, then click the "Run" button in Android Studio to build and run the app.
 
 Usage
-Main Screen:
+### Main Screen:
 
 Choose an element from the dropdown menu.
 Set the background color, text color, and tooltip text in the input fields.
 Optionally, provide the image URL or resource name for the tooltip.
 Click the "Render Tooltip" button to generate the tooltip.
-Tooltip Display:
+### Tooltip Display:
 
 The tooltip will be displayed with the specified styles, text content, and image.
-Contributing
+### Contributing
 Contributions are welcome! If you find a bug or have a feature suggestion, please open an issue. If you want to contribute code, please follow these steps:
 
 Fork the repository.
