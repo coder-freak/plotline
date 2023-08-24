@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_options">
+        <item>Button 1</item>
+        <item>Button 2</item>
+        <!-- Add more items as needed -->
+    </string-array>
+</resources>
